@@ -1,0 +1,20 @@
+Python
+))) most of the code
+
+Object Oriented Programming
+))) myhandler
+
+JSON
+))) none
+
+Databases
+))) pgadmin4 and database.py
+
+Files
+))) none?
+
+Apis
+))) do_post method
+
+Faker
+))) none

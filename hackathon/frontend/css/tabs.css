@@ -1,0 +1,112 @@
+body {
+  background-color: #4682a9;
+  color: #f6f4eb;
+  padding: 4% 4% 6%;
+  text-align: center;
+}
+
+/* login page */
+
+.logo-login {
+  font-family: "Pacifico", cursive;
+}
+
+form {
+  align-items: center;
+  margin: 20px auto 0;
+  padding: 30px;
+  text-align: left;
+  width: 400px;
+}
+
+.input {
+  background-color: #4682a9;
+  border: 0;
+  border-bottom: 1px solid #f6f4eb;
+  box-sizing: border-box;
+  color: #749bc2;
+  padding: 5px 10px;
+  width: 100%;
+}
+
+.input-box {
+  padding: 5px;
+}
+
+input:focus {
+  border: 2px solid #4682a9;
+}
+
+/* .button-centered {
+  text-align: center;
+  padding: 10%;
+}
+
+.button-form {
+  background-color: #4682a9;
+  border: 2px solid #f6f4eb;
+  border-radius: 4px;
+  color: #f6f4eb;
+  cursor: pointer;
+  font-size: 30px;
+  margin-top: 10%;
+  padding: 10px;
+  transition-duration: 0.4s;
+}
+
+button:hover {
+  background-color: #f6f4eb;
+  color: #749bc2;
+} */
+
+.button-centered {
+  text-align: center;
+}
+
+.button-form {
+  display: inline-block;
+  text-decoration: none;
+  background-color: #4682a9;
+  border: 2px solid #749bc2;
+  border-radius: 4px;
+  color: #f6f4eb;
+  cursor: pointer;
+  font-size: 30px;
+  margin-top: 10%;
+  padding: 10px;
+  transition-duration: 0.4s;
+}
+
+.button-form:hover {
+  background-color: #749bc2;
+  color: #f6f4eb;
+  background-color: #f6f4eb;
+  border: 2px solid #4682a9;
+  border-radius: 4px;
+  color: #4682a9;
+}
+
+/* anchor login */
+
+.a-form {
+  background-color: #4682a9;
+  border: 2px solid #f6f4eb;
+  border-radius: 4px;
+  color: #f6f4eb;
+  cursor: pointer;
+  font-size: 30px;
+  margin-top: 10%;
+  padding: 10px;
+  transition-duration: 0.4s;
+}
+
+a {
+  color: #f6f4eb;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: #f6f4eb;
+  color: #749bc2;
+  text-decoration: none;
+}
