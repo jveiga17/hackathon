@@ -6,10 +6,10 @@ def save_user_data(username, password, email):
         # Connect to the PostgreSQL database
         connection = psycopg2.connect(
             user="postgres",
-            password="alaylm013",
+            password="postgres",
             host="localhost",
-            port="5432",
-            database="hackathon_db",
+            port="5433",
+            database="Antisemitism",
         )
 
         cursor = connection.cursor()

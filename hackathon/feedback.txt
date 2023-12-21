@@ -1,0 +1,12 @@
+Joao: A website for education with user sign in and login
+The front-end was made with SimpleHTTPRequestHandler directly, the user sign in and log in saves the user data in the database.
+Is a modest project, mainly directed to the design of the pages, but the back-end logic, yet simple, is functional.
+Some concepts were implemented like Python OOP and Database.
+The files are connect and the code is clean and easy to follow.
+I advice to upgrade the idea using some framework and add more features using API and JSON.
+
+Python OOP:7/10
+Modules: 7/10
+Database:7/10
+JSON/API:0/10
+Overall: 6
